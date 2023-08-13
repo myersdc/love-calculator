@@ -18,9 +18,7 @@ A Calculadora de Amor utiliza um algoritmo simples para calcular a porcentagem d
 - JavaScript: Algoritmo para calcular a porcentagem de amor com base nos nomes inseridos.
 - GitHub Pages: Hospedagem gratuita da calculadora para fácil acesso.
 ## Contribuindo 🤝
-Você é bem-vindo para contribuir com melhorias na Calculadora de Amor! Sinta-se à vontade para enviar pull requests com correções de bugs, melhorias na interface ou até mesmo novos recursos.
+Você é bem-vindo para contribuir com melhorias na Calculadora de Amor! Sinta-se à vontade para enviar mensagens de dúvidas e erros encontrados via discord.
 
 ## Aviso Legal ⚖️
-Este é um projeto de código aberto e é fornecido sem garantias ou responsabilidades. Você pode usar, modificar e distribuir o código livremente. Não é necessário dar créditos ao autor. É uma criação sem fins lucrativos e profissionais, apenas por curiosidade e diversão.
-
 #### - Divirta-se calculando o seu "amor" com a Calculadora de Amor. Este projeto foi criado sem fins lucrativos e profissionais, apenas por curiosidade e tédio da minha parte. Sinta-se livre para usar sem medo de precisar dar crédito, é totalmente livre para uso.
