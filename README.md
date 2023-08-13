@@ -11,10 +11,12 @@ A Calculadora de Amor utiliza um algoritmo simples para calcular a porcentagem d
 - Clique no botão "Calcular" 💓.
 - Aguarde o resultado aparecer na tela. A porcentagem indicará o quão compatíveis vocês são.
 
-HTML5: Estruturação da página e dos campos de entrada.
-CSS3: Estilização para tornar a interface visualmente atrativa.
-JavaScript: Algoritmo para calcular a porcentagem de amor com base nos nomes inseridos.
-GitHub Pages: Hospedagem gratuita da calculadora para fácil acesso.
+## Recursos 🚀
+
+- HTML5: Estruturação da página e dos campos de entrada.
+- CSS3: Estilização para tornar a interface visualmente atrativa.
+- JavaScript: Algoritmo para calcular a porcentagem de amor com base nos nomes inseridos.
+- GitHub Pages: Hospedagem gratuita da calculadora para fácil acesso.
 ## Contribuindo 🤝
 Você é bem-vindo para contribuir com melhorias na Calculadora de Amor! Sinta-se à vontade para enviar pull requests com correções de bugs, melhorias na interface ou até mesmo novos recursos.
 
