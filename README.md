@@ -1,4 +1,4 @@
-## Calculadora de Amor 💑💖
+## 📊 Calculadora de Amor 💑💖
 Bem-vindo à Calculadora de Amor! 💕 Uma ferramenta divertida para calcular a compatibilidade de amor entre você e sua amada. Este projeto utiliza HTML5, CSS3 e JavaScript, e está publicamente disponível no GitHub para uso gratuito.
 
 ## Como Funciona 💘
@@ -17,10 +17,10 @@ HTML5: Estruturação da página e dos campos de entrada.
 CSS3: Estilização para tornar a interface visualmente atrativa.
 JavaScript: Algoritmo para calcular a porcentagem de amor com base nos nomes inseridos.
 GitHub Pages: Hospedagem gratuita da calculadora para fácil acesso.
-## Contribuições 🤝
+## Contribuindo 🤝
 Você é bem-vindo para contribuir com melhorias na Calculadora de Amor! Sinta-se à vontade para enviar pull requests com correções de bugs, melhorias na interface ou até mesmo novos recursos.
 
-## Aviso Legal ⚠️
-Esta calculadora é apenas para fins de entretenimento e não deve ser levada a sério. Não é baseada em nenhuma ciência real 🧪 e não deve influenciar decisões importantes em sua vida amorosa.
+## Aviso Legal ⚖️
+Este é um projeto de código aberto e é fornecido sem garantias ou responsabilidades. Você pode usar, modificar e distribuir o código livremente. Não é necessário dar créditos ao autor. É uma criação sem fins lucrativos e profissionais, apenas por curiosidade e diversão.
 
-Divirta-se calculando o seu "amor" com a Calculadora de Amor. Este projeto foi criado sem fins lucrativos e profissionais, apenas por curiosidade e tédio. Sinta-se livre para usar sem medo de precisar dar crédito, é totalmente livre para uso.
+## Divirta-se calculando o seu "amor" com a Calculadora de Amor. Este projeto foi criado sem fins lucrativos e profissionais, apenas por curiosidade e tédio da minha parte. Sinta-se livre para usar sem medo de precisar dar crédito, é totalmente livre para uso.
