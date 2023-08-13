@@ -5,13 +5,11 @@ Bem-vindo à Calculadora de Amor! 💕 Uma ferramenta divertida para calcular a 
 A Calculadora de Amor utiliza um algoritmo simples para calcular a porcentagem de compatibilidade entre você e sua amada. Ela leva em consideração os nomes inseridos por vocês e gera um valor que representa a intensidade do amor entre vocês dois. Lembre-se, é tudo apenas uma brincadeira! 😄
 
 ## Como Usar 📝
-Faça o clone ou download deste repositório.
-Abra o arquivo index.html no seu navegador.
-Insira o seu nome 💑 e o nome da pessoa amada 💑 nos campos correspondentes.
-Clique no botão "Calcular Amor" 💓.
-Aguarde o resultado aparecer na tela. A porcentagem indicará o quão compatíveis vocês são.
-## Recursos 🚀
-A Calculadora de Amor utiliza tecnologias web modernas para criar uma experiência interativa e agradável:
+- Faça o clone ou download deste repositório.
+- Abra o arquivo index.html no seu navegador.
+- Insira o seu nome 💑 e o nome da pessoa amada 💑 nos campos correspondentes.
+- Clique no botão "Calcular Amor" 💓.
+- Aguarde o resultado aparecer na tela. A porcentagem indicará o quão compatíveis vocês são.
 
 HTML5: Estruturação da página e dos campos de entrada.
 CSS3: Estilização para tornar a interface visualmente atrativa.
