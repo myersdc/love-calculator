@@ -8,7 +8,7 @@ A Calculadora de Amor utiliza um algoritmo simples para calcular a porcentagem d
 - Faça o clone ou download deste repositório.
 - Abra o arquivo index.html no seu navegador.
 - Insira o seu nome 💑 e o nome da pessoa amada 💑 nos campos correspondentes.
-- Clique no botão "Calcular Amor" 💓.
+- Clique no botão "Calcular" 💓.
 - Aguarde o resultado aparecer na tela. A porcentagem indicará o quão compatíveis vocês são.
 
 HTML5: Estruturação da página e dos campos de entrada.
