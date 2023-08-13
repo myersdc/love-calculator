@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="Pt-Br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="/style/style.css">
+<title>Calculadora de Amor</title>
+</head>
+<body>
+  <div class="container">
+    <h1>Calculadora de Amor</h1>
+    <form id="loveCalculator">
+      <input type="text" id="name1" placeholder="Nome 1" required>
+      <input type="text" id="name2" placeholder="Nome 2" required>
+      <button type="button" id="calculateButton">Calcular</button>
+    </form>
+    <div id="result" class="hidden">
+      <p id="resultText"></p>
+    </div>
+  </div>
+  <div class="container history-container">
+    <h2>Histórico de Resultados</h2>
+    <table id="historyTable">
+      <thead>
+        <tr>
+          <th>Nomes</th>
+          <th>Compatibilidade</th>
+        </tr>
+      </thead>
+      <tbody id="historyTableBody"></tbody>
+    </table>
+  </div>
+  <script src="/scriptjs/script.js"></script>
+</body>
+</html>
